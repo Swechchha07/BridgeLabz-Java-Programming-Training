@@ -1,0 +1,10 @@
+import java.util.*;
+public class Program4 {
+    public static void main(String[] args) {
+        int CP=129;
+        int SP=191;
+        int profit=SP-CP;
+        int profitPercentage=(profit /CP) * 100;
+        System.out.println("The Cost Price is INR " + CP + "and Selling Price is INR " + SP + "\n" + "The Profit is INR "+ profit + "and the Profit Percentage is "+ profitPercentage );
+    }
+}
