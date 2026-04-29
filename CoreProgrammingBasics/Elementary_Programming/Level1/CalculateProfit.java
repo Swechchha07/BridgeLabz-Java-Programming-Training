@@ -1,5 +1,5 @@
 import java.util.*;
-public class Program4 {
+public class CalculateProfit {
     public static void main(String[] args) {
         int CP=129;
         int SP=191;
