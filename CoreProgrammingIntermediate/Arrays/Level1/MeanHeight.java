@@ -13,6 +13,6 @@ public class MeanHeight {
             sum += heights[i];
         }
         double mean = sum / heights.length;
-        System.out.println("\nMean height of the football team = " + mean);
+        System.out.println("Mean height of the football team = " + mean);
     }
 }
