@@ -12,7 +12,7 @@ public class Friends {
             System.out.println("Enter height of " + names[i] + " (in cm): ");
             heights[i] = sc.nextDouble();
             if (ages[i] <= 0 || heights[i] <= 0) {
-                System.out.println("Invalid input! Please enter again.");
+                System.out.println("Invalid input.");
                 i--; 
             }
         }
