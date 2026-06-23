@@ -1,0 +1,8 @@
+===== HOTEL RECEIPT =====
+Reservation ID : RES101
+Guest Name     : Swechchha
+Room Number    : 101
+Nights         : 3
+Amount         : 3600
+Status         : Confirmed
+=========================

@@ -1,0 +1,8 @@
+{
+  "reservationId" : "RES101",
+  "guestName" : "Swechchha",
+  "roomNumber" : 101,
+  "nights" : 3,
+  "totalAmount" : 3600.0,
+  "status" : "Pending"
+}
